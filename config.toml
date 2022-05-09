@@ -1,0 +1,45 @@
+baseURL = "https://bl4cksqu4re.github.io"
+languageCode = "ru-ru"
+title = "My New Hugo Site"
+theme= "papermod"
+defaultContentLanguage = 'ru'
+
+[params]
+mainSections = ["posts", "evento"]
+[languages]
+    [languages.ru]
+        title = 'Чёрный квадрат'
+        [languages.ru.menu]
+        [[languages.ru.menu.main]]
+            name = 'дайджест'
+            url = '/epitomoj'
+            weight = 0
+        [[languages.ru.menu.main]]
+            name = 'как добраться в квадрат'
+            url = '/instrukcioj/agilo'
+            weight = 1
+        [[languages.ru.menu.main]]
+            name = 'о нас'
+            url = '/posts/resumo'
+            weight = 1
+        [[languages.ru.menu.main]]
+            name = 'поддержать проект'
+            url = '/helpo'
+            weight = 1
+
+
+    [languages.eo]
+        title = 'Nigra kvadrato'
+        [languages.eo.menu]
+        [[languages.eo.menu.main]]
+            name = 'epitomo'
+            url = '/epitomoj'
+            weight = 0
+        [[languages.eo.menu.main]]
+            name = 'kiel atingi la kvadrato'
+            url = '/instrukcioj/agilo'
+            weight = 1    
+        [[languages.eo.menu.main]]
+            name = 'pri nin'
+            url = '/posts/resumo'
+            weight = 1
