@@ -3,6 +3,7 @@ title: "Свободный вечер"
 date: 2022-05-10T21:05:31+08:00
 cover: 
     image: /evento/liberavespero.jpg
+draft: true
 ---
 
 **Свободный вечер** 
