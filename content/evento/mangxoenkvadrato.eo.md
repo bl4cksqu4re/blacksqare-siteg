@@ -8,7 +8,7 @@ Vespermanĝo apogon de politikaj kaptitoj
 
 15.05 / 18:00
 
-Venu al ni por vespermanĝo en la kandeloj. Manĝoj ne estas fiska prezo - vi povas donaci iom sumo en vespermanĝo. Вы также можете приготовить что-то дома и принести для всех на ужин.
+Venu al ni por vespermanĝo en la kandeloj. Manĝoj ne estas fiska prezo - vi povas donaci iom sumo en vespermanĝo. Vi ankaŭ povas manĝi что-то дома и принести для всех на ужин.
 
 Собранные деньги будут переданы АЧК-Иркутск на пересылку писем, оплату штрафов и печать информационных материалов.
 
