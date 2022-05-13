@@ -8,15 +8,15 @@ Vespermanĝo apogon de politikaj kaptitoj
 
 15.05 / 18:00
 
-Venu al ni por vespermanĝo en la kandeloj. Manĝoj ne estas fiska prezo - vi povas donaci iom sumo en vespermanĝo. Вы также можете приготовить что-то дома и принести для всех на ужин.
+Venu al ni por vespermanĝo en la kandeloj. Manĝoj ne estas fiska prezo - vi povas donaci iom sumo en vespermanĝo. Vi ankaŭ povas kuiri ion dome kaj alporti por ĉiuj  vespermanĝo.
 
-Собранные деньги будут переданы АЧК-Иркутск на пересылку писем, оплату штрафов и печать информационных материалов.
+Donacoj transdonos ANK-Irkutsk por remisi literojn, pagi monpunon kaj presi informan materialon.
 
-Мы хотели бы подчеркнуть, насколько важны подобные мероприятия. От начала войны в стране можно насчитать 25 людей, помещённых под стражу в СИЗО в связи со своей антивоенной позицией - и это только те, о ком на данный момент получилось найти информацию. Эта тенденция будет продолжаться, и число заключённых будет расти. 
-Поэтому жизненно важно учиться действовать вместе, знакомиться, поддерживать друг друга, проводить время в коллективном формате и помнить тех, кто сейчас томится в застенках за нашу с вами свободу, а также активно поддерживать их.
+Ni volas emfazi, kion grava la similaj eventoj. Uneu .. en la lendo povas kalkuli 25 homoj, gardata en СИЗО por la Kontraŭ-milita pozicio kaj ĉi tiuj estas tiuj pri kiuj konata. Tio estos daŭrigu kaj nombro mallibera kreskos. 
+Tial estas grave lerni agi kune, kunveni, apogi unu al alian pasigi pli da tempo en kolectiva formato kaj memori tiuj, kiuj nun angoras en torturejo por nia kaj via libera, kaj ankaŭ active apogi ilin.
 
-Мы с вами, наши близкие люди - это всё, что у нас есть. Наше оружие - солидарность!
+Ni kun vi, nia intima homoj estas ĉio, kion ni havas. Nia armilo estas solidareco!
 
-"... мы прекрасно понимаем, что кроме нас самих, нам никто никогда эту защиту не даст. Ни Бог, ни царь, ни закон — уже никто, только мы сами.
+"... ni bone komprenas, ke krom nin mem, nin neniu neniam ĉi tiu protekton ne donos. Ne dio, ne caro, ne leĝo — neniu jam estas, nur ni mem.
 
-— Станислав Маркелов"
+— Stanislav Markelov"
