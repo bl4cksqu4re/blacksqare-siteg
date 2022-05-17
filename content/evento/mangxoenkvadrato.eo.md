@@ -9,7 +9,6 @@ Vespermanĝo apogon de politikaj kaptitoj
 15.05 / 18:00
 
 Venu al ni por vespermanĝo en la kandeloj. Manĝoj ne estas fiska prezo - vi povas donaci iom sumo en vespermanĝo. Vi ankaŭ povas kuiri ion dome kaj alporti por ĉiuj  vespermanĝo.
-
 Donacoj transdonos ANK-Irkutsk por remisi literojn, pagi monpunon kaj presi informan materialon.
 
 Ni volas emfazi, kion grava la similaj eventoj. Uneu .. en la lendo povas kalkuli 25 homoj, gardata en СИЗО por la Kontraŭ-milita pozicio kaj ĉi tiuj estas tiuj pri kiuj konata. Tio estos daŭrigu kaj nombro mallibera kreskos. 
