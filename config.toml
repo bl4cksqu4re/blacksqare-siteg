@@ -15,6 +15,10 @@ mainSections = ["posts", "evento"]
             url = '/epitomoj'
             weight = 0
         [[languages.ru.menu.main]]
+            name = 'мерч'
+            url = '/varoj'
+            weight = 0
+        [[languages.ru.menu.main]]
             name = 'как добраться в квадрат'
             url = '/instrukcioj/agilo'
             weight = 1
@@ -34,6 +38,10 @@ mainSections = ["posts", "evento"]
         [[languages.eo.menu.main]]
             name = 'epitomo'
             url = '/epitomoj'
+            weight = 0
+        [[languages.eo.menu.main]]
+            name = 'varo'
+            url = '/varoj'
             weight = 0
         [[languages.eo.menu.main]]
             name = 'kiel atingi la kvadrato'
