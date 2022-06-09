@@ -1,8 +1,6 @@
 ---
 title: "Solidara vespermanĝo"
 date: 2022-05-12T15:03:52+08:00
-cover: 
-    image: /evento/vespermangxo.eo.jpg
 ---
 Vespermanĝo apogon de politikaj kaptitoj
 

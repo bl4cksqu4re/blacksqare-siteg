@@ -2,8 +2,6 @@
 title: "Tefesto 12 majo"
 date: 2022-05-09T18:00:00+08:00
 draft: False
-cover: 
-    image: /evento/teo.jpg
 ---
 **Maja tefesto en Kvadrato**
 

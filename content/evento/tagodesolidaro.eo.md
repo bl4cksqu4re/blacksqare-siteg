@@ -1,8 +1,6 @@
 ---
 title: "Tago de solidaro"
 date: 2022-05-20T11:14:55+08:00
-cover: 
-    image: /evento/tagodesolidaro.jpg
 
 ---
 **Tago de solidaro** 

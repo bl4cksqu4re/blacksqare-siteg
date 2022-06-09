@@ -2,8 +2,6 @@
 title: "Чаепитие 12 мая"
 date: 2022-05-09T18:00:00+08:00
 draft: False
-cover: 
-    image: /evento/teo.jpg
 ---
 **Майское чаепитие в квадрате**
 

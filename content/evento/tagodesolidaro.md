@@ -1,8 +1,6 @@
 ---
 title: "День солидарности"
 date: 2022-05-20T11:14:55+08:00
-cover: 
-    image: /evento/tagodesolidaro.jpg
 
 ---
 День солидарности 

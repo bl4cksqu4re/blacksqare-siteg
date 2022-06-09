@@ -1,8 +1,6 @@
 ---
 title: "Prelego pri arthistorio: Egon Schille"
 date: 2022-05-10T23:40:35+08:00
-cover: 
-    image: /evento/sxelle.jpg
 ---
 
 **14.05 19:30**
