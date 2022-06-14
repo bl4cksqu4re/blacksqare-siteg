@@ -2,7 +2,7 @@
 title: "Вечер написания писем политическим заключённым"
 date: 2022-06-10T13:53:50+08:00
 draft: false
-archive: false
+archive: true
 event_date: "11.06"
 event_time: "17:00"
 cover: 
