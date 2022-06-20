@@ -1,7 +1,7 @@
 ---
 title: "Свободный вечер"
 date: 2022-06-14T00:00:00+08:00
-archive: false
+archive: true
 event_date: "15.06"
 event_time: "18:00"
 cover: 
