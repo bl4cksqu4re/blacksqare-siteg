@@ -28,6 +28,6 @@ width: 0
 
 Мы поставили себе цель отбивать аренду с пожертвований, поэтому вот и реквизиты для поддержки:
 
-- Bitcoin 1ETKDQW6WLpRn5ogrMj2fCGmBsQ1bz9XJW
-- Ethetium 0xF4E33e33ae0977dc7203ce1393df73e831FdEF1C
-- Сбербанк: 4276 1804 3109 2757
+**Сбербанк: 4276 1804 3109 2757**
+**Bitcoin: bc1qgnm7arj77r8c4hz6xvqr5fwecktmldtrwt6p20**
+**Monero: 45ErJFyeYvM2FNNaN9pSjDSSVQ5vhUAZ2VusFwZf4dQ2YDb3hLJhrd38XPkkrRFsuqUhc8owWuVbNeV3Bti3oXMA7PxSgKT **
