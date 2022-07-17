@@ -3,6 +3,7 @@ title: "Книга №1"
 date: 2022-05-23T09:01:34+08:00
 cover:
     image: "/varoj/libroj/libro1.png"
+draft: true
 price: "freeprice"
 ---
 Это супер-пупер книга номер 1. 

@@ -2,7 +2,7 @@
 title: "Libera vespero"
 date: 2022-07-12T14:39:25+08:00
 draft: false
-archive: false
+archive: true
 event_date: "13.07.2022"
 event_time: "18:00"
 cover: 
