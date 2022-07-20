@@ -8,6 +8,7 @@ defaultContentLanguage = 'ru'
 mainSections = ["posts", "evento"]
 ShowShareButtons = true
 ShareButtons = ["telegram", "twitter"]
+ShowBreadCrumbs = true
 [languages]
     [languages.ru]
         title = 'Чёрный квадрат'
@@ -38,6 +39,11 @@ ShareButtons = ["telegram", "twitter"]
             url = '/archives/'
             weight = 4
 
+        [[languages.ru.menu.main]]
+            name = 'зин'
+            url = '/revuoj/'
+            weight = 2
+
     [languages.eo]
         title = 'Nigra kvadrato'
         [languages.eo.menu]
@@ -61,3 +67,7 @@ ShareButtons = ["telegram", "twitter"]
             name = 'archivo'
             url = '/archives/'
             weight = 4
+        [[languages.eo.menu.main]]
+            name = 'revuo'
+            url = '/revuoj/'
+            weight = 2
