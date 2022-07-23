@@ -1,10 +1,10 @@
 ---
-title: "20220723 Siberiokielkooperativo"
+title: "Сибирь как кооператив"
 date: 2022-07-22T15:54:50+08:00
-draft: true
+draft: false
 archive: false
-event_date: "22.07.2022"
-event_time: "15:54"
+event_date: "23.07.2022"
+event_time: "16:00"
 cover: 
     image: /evento/20220723-siberiokielkooperativo.jpg
 ---
