@@ -1,19 +1,10 @@
 ---
 title: "Сибирь как кооператив"
 date: 2022-07-22T15:54:50+08:00
-<<<<<<< HEAD
-draft: true
+draft: false
 archive: true
 event_date: "22.07.2022"
 event_time: "15:54"
-=======
-draft: false
-archive: false
-event_date: "23.07.2022"
-event_time: "16:00"
-cover: 
-    image: /evento/20220723-siberiokielkooperativo.jpg
->>>>>>> 2dbc2b66cc9741235881dd70b5a69cae8126c2eb
 ---
 Дискуссия о проблемах устойчивости современной культуры в России: горизонтальные сообщества и государство.
 
