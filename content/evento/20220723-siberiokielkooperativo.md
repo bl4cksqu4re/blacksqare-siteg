@@ -2,11 +2,9 @@
 title: "20220723 Siberiokielkooperativo"
 date: 2022-07-22T15:54:50+08:00
 draft: true
-archive: false
+archive: true
 event_date: "22.07.2022"
 event_time: "15:54"
-cover: 
-    image: /evento/20220723-siberiokielkooperativo.jpg
 ---
 Дискуссия о проблемах устойчивости современной культуры в России: горизонтальные сообщества и государство.
 
