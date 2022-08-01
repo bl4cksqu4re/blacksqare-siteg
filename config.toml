@@ -9,6 +9,7 @@ mainSections = ["posts", "evento"]
 ShowShareButtons = true
 ShareButtons = ["telegram", "twitter"]
 ShowBreadCrumbs = true
+enableRobotsTXT = true
 [languages]
     [languages.ru]
         title = 'Чёрный квадрат'
