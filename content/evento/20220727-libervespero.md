@@ -2,7 +2,7 @@
 title: "Свободный вечер"
 date: 2022-07-27T12:45:05+08:00
 draft: false
-archive: false
+archive: true
 event_date: "27.07.2022"
 event_time: "18:00"
 cover: 
