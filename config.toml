@@ -1,11 +1,11 @@
 baseURL = "https://bl4cksqu4re.github.io"
 languageCode = "ru-ru"
-title = "My New Hugo Site"
+title = "Чёрный квадрат"
 theme= "papermod"
 defaultContentLanguage = 'ru'
 
 [params]
-mainSections = ["posts", "evento"]
+mainSections = ["posts", "evento", "epitomoj"]
 ShowShareButtons = true
 ShareButtons = ["telegram", "twitter"]
 ShowBreadCrumbs = true
