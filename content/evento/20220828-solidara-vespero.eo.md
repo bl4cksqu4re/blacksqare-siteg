@@ -5,8 +5,6 @@ draft: false
 archive: false
 event_date: "28.08.2022"
 event_time: "18:00"
-cover: 
-    image: /evento/20220828-solidara-vespero-eo.jpg
 ---
 
 En tio dimanĉo ni invitas vin al vespermanĝo en nia ejo

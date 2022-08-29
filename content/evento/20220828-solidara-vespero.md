@@ -5,8 +5,6 @@ draft: false
 archive: false
 event_date: "28.08.2022"
 event_time: "18:00"
-cover: 
-    image: /evento/20220828-solidara-vespero.jpg
 ---
 
 В это воскресенье приглашаем всех на ужин в наше пространство.
