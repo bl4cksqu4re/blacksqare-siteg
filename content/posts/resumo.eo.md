@@ -2,7 +2,8 @@
 title: "Pri nin"
 date: 2022-05-04T23:15:05+08:00
 draft: false
-width: 1
+archive: false
+weight: 1
 ---
 Saluton. Ni ne tradukis ĉi tio paĝo
 Nigra kvadrato estas libera spaco por organizado kaj kondukado de diversaj eventoj, kluboj, koncertoj, kinomontroj, diskutadoj, libera kaj malpaga interŝanĝo de scio kaj empirio.
