@@ -2,7 +2,7 @@
 title: "Эсперанто кружок"
 date: 2022-08-30T12:43:50+08:00
 draft: false
-archive: false
+archive: true
 event_date: "02.09.2022"
 event_time: "18:00"
 cover: 

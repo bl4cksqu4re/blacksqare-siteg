@@ -2,7 +2,7 @@
 title: "Эпитомий (список мероприятий) август"
 date: 2022-08-15T13:41:41+08:00
 draft: false
-archive: false
+archive: true
 weight: 2
 ---
 Наш эпитомий на август:

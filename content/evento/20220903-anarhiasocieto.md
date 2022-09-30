@@ -2,7 +2,7 @@
 title: "Анархо кружок"
 date: 2022-08-30T12:41:10+08:00
 draft: false
-archive: false
+archive: true
 event_date: "03.09.2022"
 event_time: "15:00"
 cover: 

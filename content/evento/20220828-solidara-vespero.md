@@ -2,7 +2,7 @@
 title: "Солидарный ужин"
 date: 2022-08-25T13:45:47+08:00
 draft: false
-archive: false
+archive: true
 event_date: "28.08.2022"
 event_time: "18:00"
 ---

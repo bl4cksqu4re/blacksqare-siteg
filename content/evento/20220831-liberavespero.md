@@ -2,7 +2,7 @@
 title: "Свободный вечер"
 date: 2022-08-31T10:43:58+08:00
 draft: false
-archive: false
+archive: true
 event_date: "31.08.2022"
 event_time: "18:00"
 cover: 
