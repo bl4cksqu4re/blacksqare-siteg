@@ -2,6 +2,7 @@
 title: "Майский дайджест"
 date: 2022-05-09T23:26:44+08:00
 draft: false
+archive: true
 ---
 
 ![alt](/epitomoj/majo.png)

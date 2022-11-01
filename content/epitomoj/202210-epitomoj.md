@@ -2,7 +2,7 @@
 title: "Дайдест на неделю 19.10-23.10" 
 date: 2022-10-19T20:13:26+08:00
 draft: false
-archive: false
+archive: true 
 ---
 
 СРЕДА 19.10
