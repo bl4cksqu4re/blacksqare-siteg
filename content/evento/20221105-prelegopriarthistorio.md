@@ -2,7 +2,7 @@
 title: "Лекция по истории искусств: Эжен Делакруа"
 date: 2022-11-02T00:00:51+08:00
 draft: false
-archive: false
+archive: true
 event_date: "05.11.2022"
 event_time: "19:30"
 cover: 

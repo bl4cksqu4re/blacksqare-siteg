@@ -40,14 +40,19 @@ enableRobotsTXT = true
             weight = 3
 
         [[languages.ru.menu.main]]
-            name = 'Архив'
+            name = 'архив'
             url = '/archives/'
-            weight = 4
+            weight = 5
 
         [[languages.ru.menu.main]]
             name = 'зин'
             url = '/revuoj/'
-            weight = 2
+            weight = 4
+	
+	[[languages.ru.menu.main]]
+	    name = 'меню'
+            url = '/varoj/mangxoj'
+            weight = 4
 
     [languages.eo]
         title = 'Nigra kvadrato'
