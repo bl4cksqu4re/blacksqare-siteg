@@ -2,7 +2,7 @@
 title: "Дайджест 09-13 Ноября"
 date: 2022-11-07T23:54:17+08:00
 draft: false
-archive: false
+archive: true
 weight: 3
 ---
 Всем привет
