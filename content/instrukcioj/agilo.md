@@ -3,6 +3,9 @@ title: "Как добраться до квадрата?"
 date: 2022-05-10T00:07:03+08:00
 draft: false
 ---
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=104.22809958457948%2C52.26454938023903%2C104.23362493515016%2C52.267293977108906&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=18/52.26592/104.23086">Vidi pli grandan mapon</a></small>
+
 Мы сделали карту и подробную инструкцию для того, чтобы вам было проще нас найти
 
 ![карта](/instrukcioj/map/0.png)
