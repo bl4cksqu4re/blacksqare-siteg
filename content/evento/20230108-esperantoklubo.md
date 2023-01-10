@@ -2,11 +2,9 @@
 title: "Esperanto klubo"
 date: 2023-01-04T13:31:40+08:00
 draft: false
-archive: false
+archive: true
 event_date: "08.01.2023"
 event_time: "17:00"
-cover: 
-    image: /evento/20230108-esperantoklubo.jpg
 ---
 В этот раз у нас будет практическое занятие, на котором мы будем переводить свои любимые рецепты на эсперанто. 
 

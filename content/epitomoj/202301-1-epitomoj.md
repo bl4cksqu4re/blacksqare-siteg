@@ -2,7 +2,7 @@
 title: "Эпитомий (список мероприятий) на праздничную неделю (04.01-08.01)"
 date: 2023-01-04T13:32:22+08:00
 draft: false
-archive: false
+archive: true
 weight: 3
 ---
 
