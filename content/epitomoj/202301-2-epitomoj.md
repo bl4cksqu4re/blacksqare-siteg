@@ -2,7 +2,7 @@
 title: "Дайджест (Эпитомий) на неделю с 9-15 января"
 date: 2023-01-11T00:08:35+08:00
 draft: false
-archive: false
+archive: true
 weight: 3
 ---
 Привет, друзья!

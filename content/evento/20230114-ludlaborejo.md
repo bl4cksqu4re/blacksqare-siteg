@@ -2,11 +2,9 @@
 title: "Мастерская игр: bitsy"
 date: 2023-01-11T00:06:25+08:00
 draft: false
-archive: false
+archive: true
 event_date: "14.01.2023"
 event_time: "16:00"
-cover: 
-    image: /evento/20230114-ludlaborejo.jpg
 ---
 Микро-лекторий даёт свои плоды, и вот из микро-лекций начинает проростать что-то отдалённо напоминающее что-то живое.
 
