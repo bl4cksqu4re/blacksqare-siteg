@@ -29,3 +29,6 @@ Ni ne estas vica NKO aŭ krea spaco, ĉi tiu projekto konstruas sur anarchia baz
 **SberBank: 4276 1804 3109 2757**
 **Bitcoin: bc1qgnm7arj77r8c4hz6xvqr5fwecktmldtrwt6p20**
 **Monero: 45ErJFyeYvM2FNNaN9pSjDSSVQ5vhUAZ2VusFwZf4dQ2YDb3hLJhrd38XPkkrRFsuqUhc8owWuVbNeV3Bti3oXMA7PxSgKT **
+
+
+[Nia PGP fonto](/posts/BlackSquare.asc)
